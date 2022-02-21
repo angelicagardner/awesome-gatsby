@@ -8,11 +8,10 @@
 
 - [Section](#section)
 - [Another Section](#another-section)
+- [Videos](#videos)
 
 
 ## Section
-
-About this section. Optional. Keep this short and focus on the list.
 
 - [List item](http://example.com)
 - [List item](http://example.com)
@@ -24,6 +23,12 @@ About this section. Optional. Keep this short and focus on the list.
 
 - [List item](http://example.com)
 - [List item](http://example.com)
+
+
+## Videos
+
+- [Gatsby JS Crash Course](https://www.youtube.com/watch?v=6YhqQ2ZW1sc) by Traversy Media
+- [Gatsby Static Site Generator Tutorial](https://www.youtube.com/watch?v=RaTpreA0v7Q&t=1236s) by freeCodeCamp.org
 
 
 ## Contribute
